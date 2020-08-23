@@ -1,0 +1,43 @@
+body
+{
+	background-color: black;
+}
+.nav-link{
+display:inline-block;
+}
+.dropdown-menu
+{
+	background-color:unset;
+	left:-1rem;
+}
+.dropdown-item
+{
+	text-align:center;
+	background-image: linear-gradient(to bottom,transparent,rgba(255,255,255,0.5))
+}
+nav
+{
+	font-size:1.5rem;
+	display:flex;
+	justify-content:flex-end;
+}
+nav a
+{
+	padding:.5rem 1rem;
+}
+.background
+{
+	width:100%;
+}
+.logo
+{
+	position:absolute;
+	left:3rem;
+	top:3rem;
+	z-index:2;
+}
+.logo img
+{
+	border:0px solid transparent;
+	border-radius: 50%;
+}
