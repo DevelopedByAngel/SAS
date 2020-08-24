@@ -77,6 +77,10 @@ display:inline-block;
 {
 	transform: scale(1.3)
 }
+.logo:active
+{
+	transform: scale(0.8)
+}
 .logo img
 {
 	border:0px solid transparent;
@@ -174,3 +178,16 @@ form
 {
 	margin:1em;
 }
+
+
+/*
+
+Confused in what skill i have
+Phase 1=Career options given
+Phase 2=Creativity check
+Situation Check with lie detector====VR
+DNA test
+Problem:
+EG:math codon(GTCA)
+Find the Probability of math codon in the person.
+*/
